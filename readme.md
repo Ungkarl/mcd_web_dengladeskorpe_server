@@ -110,7 +110,4 @@ Ala:
 
 Nu er alt oprettet og du er klar til at udvikle Projektet. Hvis dette ikke er tilfældet, så tag fat i din underviser.
 
-:bulb: Husk! I kan altid droppe/slette jeres database og genskabe den som oprindelig med "Opret Database" scriptet. I kan også omdøbe databasen ved at ændre navnet i .env.local filen. Tøv ikke med at tage fat i en underviser hvis der er problemer.
-
-:bulb: Rens/Clear **localstoage**. Der kan opstå problemer hvis man har "gammel" localstorage på samme port. Du kan fjerne gammel via browser consollen /application/localstoage.
 
