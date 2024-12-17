@@ -57,8 +57,7 @@ Kør "Start Server" i 'NPM Script' i visual kode eller brug i terminalen.
 npm run "Start Server"
 ```
 
-:bulb: NB: Du kan *bare* køre serveren via terminalen du *skal* ikke have den åben i visualcode.
-Du kan bare køre kommandoen ovenfor når du har fået installeret databasen.
+
 
 ### 6. Åbn Postman.
 
