@@ -108,6 +108,5 @@ Ala:
 }
 ```
 
-Nu er alt oprettet og du er klar til at udvikle Projektet. Hvis dette ikke er tilfældet, så tag fat i din underviser.
 
 
